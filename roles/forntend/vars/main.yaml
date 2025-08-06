@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.devopsmahankali.shop
+USER_HOST: user.devopsmahankali.shop
+CART_HOST: cart.devopsmahankali.shop
+SHIPPING_HOST: shipping.devopsmahankali.shop
+PAYMENT_HOST: payment.devopsmahankali.shop
